@@ -1,6 +1,6 @@
 {
   "name": "extends-type",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "runtime javascript type assertion with a familiar syntax for typescript lovers",
   "type": "module",
   "main": "./dist/index.mjs",
